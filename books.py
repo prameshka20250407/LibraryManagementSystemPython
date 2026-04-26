@@ -2,6 +2,8 @@ import os.path
 from validations import validate_book_id, validate_isbn_no
 import csv
 
+#All book functions(add, edit, search)
+
 def add_book():
     book_id = ""
     isbn_no = ""
