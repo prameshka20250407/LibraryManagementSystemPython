@@ -4,6 +4,8 @@ import os
 import pandas as pd
 import plotly.express as px
 
+#issue and return functions
+
 def issue_book():
     while True:
         book_id = validate_book_id()
