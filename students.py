@@ -1,6 +1,7 @@
 import csv
 from validations import validate_student_id
 
+#add student function
 
 def add_student():
     while True:
