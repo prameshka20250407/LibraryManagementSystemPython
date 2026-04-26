@@ -1,5 +1,7 @@
 import csv
 
+#All Validations functions
+
 def validate_book_id():
     attempts = 0
     while attempts < 3:
