@@ -5,6 +5,7 @@ import pandas as pd
 import plotly.express as px
 
 #issue and return functions
+#Trend Graph function
 
 def issue_book():
     while True:
